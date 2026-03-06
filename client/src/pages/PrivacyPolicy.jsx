@@ -173,10 +173,10 @@ const PrivacyPolicy = () => {
                 </a>
 
                 <a
-                  href="mailto: support@Ornexa.com"
+                  href="mailto: contact@ornexa.in"
                   className="block text-green-400 hover:underline break-all"
                 >
-                  support@Ornexa.com
+                  contact@ornexa.in
                 </a>
 
               </div>

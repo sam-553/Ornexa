@@ -33,7 +33,7 @@ const Footer = () => {
           <p className="text-sm mb-1">Ornexa</p>
           <p className="text-sm mb-1">Kabir Ward, Near doonda Seoni square - Seoni (MP) 480661</p>
           <p className="text-sm mb-1">Mobile: +91-7974-894201</p>
-          <p className="text-sm">Email:support@Ornexa.com</p>
+          <p className="text-sm">Email:contact@ornexa.in</p>
         </div>
 
       </div>
