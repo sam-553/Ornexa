@@ -145,7 +145,7 @@ const TermsConditions = () => {
           <div className="bg-gray-600 text-white rounded-xl p-8 text-center">
             <p>
               By using Ornexa, you agree to these Terms &
-              Conditions. Your trust and cooperation help us build a stronger,
+               Conditions. Your trust and cooperation help us build a stronger,
               more financially inclusive India.
             </p>
           </div>
