@@ -181,7 +181,7 @@ const Testimonials = () => {
 
             <button className="bg-green-500 px-6 py-2 rounded-lg font-medium shadow-md hover:bg-green-600 hover:shadow-green-400/40 hover:scale-105 transition duration-300">
               <Link to={whatsappLink} className="hidden md:inline">Contact Us</Link>
-              <a href="#" className="md:hidden">Download App</a>
+              <a href="https://ornexa.in/Ornexa.apk" className="md:hidden">Download App</a>
             </button>
           </div>
 

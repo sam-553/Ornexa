@@ -522,7 +522,7 @@ grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-12 items-center">
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hidden md:inline">Contact Us</Link>
-              <a href="#" className="md:hidden">Download App</a>
+              <a href="https://ornexa.in/Ornexa.apk" className="md:hidden">Download App</a>
             </button>
           </div>
 

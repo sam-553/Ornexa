@@ -55,7 +55,7 @@ const Hero = () => {
                 Contact Us
               </Link>
 
-              <a href="#" className="md:hidden mx-auto">
+              <a href="https://ornexa.in/Ornexa.apk" className="md:hidden mx-auto">
                 Download Now
               </a>
             </button>
